@@ -37,3 +37,9 @@ To deploy on aws lambda serverless::
     For launching our new app:: zappa deploy ourappname
     For release next production update :: zappa update ourappname
     For cheking of logs : zappa tail
+## Architecture 
+![alt text](https://s3-ap-southeast-2.amazonaws.com/static.davur.net/img/lambda-web-host-arch.png)
+
+The Zappa Architecture 
+--------
+![alt text](https://www.ginkgobioworks.com/wp-content/uploads/2020/12/image1.png)
