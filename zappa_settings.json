@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "aws_region": "ap-south-1",
+        "django_settings": "main.settings",
+        "profile_name": "default",
+        "project_name": "django-serverle",
+        "runtime": "python3.8",
+        "s3_bucket": "giveyourbucketname"
+    }
+}
