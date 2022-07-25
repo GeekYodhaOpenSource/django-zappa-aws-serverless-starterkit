@@ -1,6 +1,6 @@
 
 
-Django Deplyment with aws-lambda using zappa Project Starter Template
+Django Deployment with aws-lambda using zappa Project Starter Template
 =======================
 
 This starter kit will give you basic template to start work with django, zappa and aws lambda. You can modify it as per your requirement.
